@@ -75,7 +75,7 @@ You should be able to...
 - [ ] Open the terminal outside of VS Code
 - [ ] Use `cd` to navigate between directories
 - [ ] Use `ls` to list the contents of a directory
-- [ ] Use `mkdir` to create an empty directory
+- [x] Use `mkdir` to create an empty directory
 - [ ] Use `touch` to create an empty file
 - [ ] Use `code` to open VS Code
 
